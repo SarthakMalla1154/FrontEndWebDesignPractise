@@ -44,8 +44,6 @@ Screenshot of the final draft[Screenshot](./images/screenshot.png)
 
 While I explored this challenge, I was introduced to the concept of CSS Grids. I am still unknown of its full capacity and how it works, but I was able to use it in my code.
 
-To see how you can add code snippets, see below:
-
 ```css
 .grid-container{
     display: grid;
