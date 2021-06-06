@@ -66,4 +66,4 @@ I was also unable to replicate the result in the mobile version. Not sure how to
 ## Author
 
 - Website - [Sarthak Malla]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@sarthakmalla1154](https://www.frontendmentor.io/profile/sarthakmalla1154)
