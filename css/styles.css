@@ -1,0 +1,62 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+}
+
+.card-box{
+    background-color: hsl(244, 38%, 16%);
+    height: fit-content;
+    width: 76.15%;
+    margin: 11% auto 0;
+    padding-bottom: 4.75%;
+    position: relative;
+}
+
+#header-img{
+    color: hsl(277, 64%, 61%);
+    float: right;
+    filter: invert(0%) sepia(4%) saturate(10000%) hue-rotate(240deg) brightness(65%) contrast(75%);
+    padding-left: 100px;
+}
+
+.title{
+    color: white;
+    font-family: "Inter";
+    padding: 5% 0 0 7%;
+    font-weight: 700;
+    line-height: 1.2;
+    font-size: 35px;
+}
+
+.highlight-word{
+    color: hsl(277, 64%, 61%);
+}
+
+.content-body{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: "Lexend";
+    font-size: 15px;
+    padding: 0 0 7% 7%;
+    line-height: 1.7;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 0 0 0 7%;
+}
+
+.grid-item{
+    color: hsla(0, 0%, 100%, 0.6);
+    font-family: "Lexend";
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+.stat-heading{
+    color: hsl(0, 0%, 100%);
+    font-family: "Inter";
+    font-weight: lighter;
+    font-size: 24px;
+    padding-right: 2%;
+    line-height: 1.5;
+}
