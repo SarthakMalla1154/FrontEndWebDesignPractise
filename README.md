@@ -32,8 +32,8 @@ Screenshot of the final draft[Screenshot](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [End Result](https://sarthakmalla1154.github.io/StatsPreviewCard/)
+- Live Site URL: [Live URL](https://sarthakmalla1154.github.io/StatsPreviewCard/)
 
 ### Built with
 
